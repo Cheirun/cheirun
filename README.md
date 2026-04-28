@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Java developer with solid backend fundamentals and hands-on experience across full-stack projects. I pick up new<br>technologies on the fly and have shipped real features in team environments, from REST APIs to ML-integrated systems
+Java developer with solid backend fundamentals and hands-on experience across full-stack projects. I pick up new technologies on the fly and have shipped real features in team environments, from REST APIs to ML-integrated systems
 
 
 # 💻 Tech Stack:
